@@ -103,24 +103,7 @@ div{
     color: #ffffff;
 }
 
-/* .table{
-    display: flex;
-    flex-direction: column;
-}  */
-/* .cards{
-    display: flex;
-    flex-direction: column;
 
-
-} */
-/* .cards{
-    display: grid;
-    grid-template-columns: repeat(6,1fr) ;
-    column-gap:5px;
-} */
-/* .wrapper{
-    display: flex;
-} */
 .cards {
     display: grid;
     grid-template-columns: repeat(5, 1fr);

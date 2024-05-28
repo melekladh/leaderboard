@@ -1,10 +1,11 @@
 import './App.css';
 import Leaderboard from './compenents/Leaderboard';
-import './compenents/style.css'
+import Scacnner from './compenents/Scacnner';
 function App() {
   return (
     <div className="App">
       <Leaderboard/>
+      <Scacnner/>
     </div>
   );
 }

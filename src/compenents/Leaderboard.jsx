@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../compenents/style.css'
 const Leaderboard = () => {
   return (
     <>
